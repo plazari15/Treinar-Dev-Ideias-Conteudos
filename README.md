@@ -8,4 +8,4 @@ Como dar minha ideia...
 2. Divulgue na comunidade ou para seus colegas. 
 3. Quando o conteudo for criado a issue será fechada e o link disponibilizado.
 
-Se você não for mebro de nossa comunidade e quiser começar, clique (aqui)[https://discord.gg/mdk6PYY]
+Se você não for mebro de nossa comunidade e quiser começar, clique [aqui](https://discord.gg/mdk6PYY)
