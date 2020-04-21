@@ -1,6 +1,6 @@
 ---
 name: nova_ideia.md
-about: Uma Nova Ideia
+about: Use este template caso você queira publicar uma ideia.
 title: "[LIVE] Como Criar um Docker Container"
 labels: Nova
 assignees: ''
