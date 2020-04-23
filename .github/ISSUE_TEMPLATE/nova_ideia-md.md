@@ -8,7 +8,9 @@ assignees: ''
 ---
 
 **Essa é uma ideia totalmente inovadora?**
-Quero dizer, ninguem postou essa ideia, ela não foi desenvolvida e nem está em desenvolvimento?
 
-**O que você quer aprender?**
-Conte um pouco sobre o conteúdo que você quer aprender
+<!-- Quero dizer, ninguém postou essa ideia, ela não foi desenvolvida e nem está em desenvolvimento? -->
+
+**O que você quer aprender/ensinar?**
+
+Conte um pouco sobre o conteúdo que você deseja aprender/ensinar.
